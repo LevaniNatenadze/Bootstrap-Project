@@ -1,2 +1,2 @@
 # Bootstrap-Project
-#მარტივი bootstrap მარქაფი (პირველი)
+არტივი bootstrap მარქაფი (პირველი)
